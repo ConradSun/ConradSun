@@ -21,7 +21,7 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [NuwaStone](https://github.com/ConradSun/NuwaStone) | <img alt="Stars" src="https://img.shields.io/github/stars/ConradSun/NuwaStone?style=flat-square&labelColor=black"/> | ![EndpointSecurity](https://img.shields.io/badge/ES-endpoint%20security-lightgrey)|
-| [FishHook](https://github.com/ConradSun/FishHook) | <img alt="Stars" src="https://img.shields.io/github/stars/ConradSun/FishHook?style=flat-square&labelColor=black"/> | ![Hook](https://img.shields.io/badge/Hook-mach----o-black)|
+| [FishHook](https://github.com/ConradSun/FishHook) | <img alt="Stars" src="https://img.shields.io/github/stars/ConradSun/FishHook?style=flat-square&labelColor=black"/> | ![Hook](https://img.shields.io/badge/Hook-mach--o-black)|
 
 </td><td>
 
